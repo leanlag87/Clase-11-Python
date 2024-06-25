@@ -1,4 +1,4 @@
-# Proyecto Python Final
+# Python Final
 
 Este proyecto contiene la configuración inicial y el entorno virtual de un proyecto en Python. A continuación, se detallan los pasos seguidos y la investigación sobre `pip`.
 
